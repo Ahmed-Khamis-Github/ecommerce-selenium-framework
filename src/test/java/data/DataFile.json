@@ -1,0 +1,32 @@
+[
+  {
+    "first_name": "John",
+    "last_name": "Doe",
+    "birth_day": 20,
+    "birth_month": "December",
+    "birth_year": 1997,
+    "email": "johndoe@example.com",
+    "company": "MisoCompany",
+    "password": "12345678"
+  },
+  {
+    "first_name": "Ahmed",
+    "last_name": "Moe",
+    "birth_day": 11,
+    "birth_month": "December",
+    "birth_year": 2000,
+    "email": "ahmed@gmail.com",
+    "company": "AhmedCompany",
+    "password": "12345678"
+  },
+  {
+    "first_name": "Mazen",
+    "last_name": "Loe",
+    "birth_day": 10,
+    "birth_month": "December",
+    "birth_year": 1999,
+    "email": "mazen121@gmail.com",
+    "company": "MazeenCompany",
+    "password": "12345678"
+  }
+]
